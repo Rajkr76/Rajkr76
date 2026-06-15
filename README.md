@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&height=100&lines=rajk76%40github%3A~%24+whoami;Raj+Kumar" /> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Backend+Engineering;Full+Stack+Development;Machine+Learning;System+Design;Building+Scalable+Applications" />
-
 <p>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,25 +22,60 @@
 
 ---
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&height=80&lines=Raj+Kumar;Backend+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" />
+
+### Building Scalable Systems • Learning Continuously • Shipping Projects
+
+<img src="https://komarev.com/ghpvc/?username=Rajk76&label=Profile+Views&color=00ff7f&style=flat-square" />
+
+<br>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 # About Me
 
 ```yaml
-Name: Raj Kumar
-Role: B.Tech Engineering Student
+name: Raj Kumar
 
-Current Focus:
+role:
+  - B.Tech Engineering Student
+
+focus:
   - Backend Engineering
   - Full Stack Development
   - Machine Learning
 
-Learning:
+currently_learning:
   - System Design
   - Docker
-  - Cloud & Deployment
+  - Cloud Deployment
+  - Backend Architecture
 
-Open To:
+interests:
+  - Scalable Systems
+  - REST APIs
+  - Databases
+  - Machine Learning
+
+open_to:
   - Collaboration
-  - Open Source
+  - Open Source Contributions
   - Real-world Projects
 ```
 
@@ -52,31 +85,59 @@ Open To:
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,docker,vercel,linux,git,github,postman,vscode&perline=10" />
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python" />
+</div>
 
-### Frontend
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+# Current Focus
+
+<table>
+<tr>
+<td width="33%" align="center">
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+REST APIs
 
-### Databases
+Authentication
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+Authorization
 
-### DevOps & Cloud
+Database Design
 
-<img src="https://skillicons.dev/icons?i=docker,vercel,linux" />
+</td>
 
-### Tools
+<td width="33%" align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+### Full Stack
 
-</div>
+React
+
+Next.js
+
+Node.js
+
+MongoDB
+
+</td>
+
+<td width="33%" align="center">
+
+### Machine Learning
+
+Python
+
+Data Processing
+
+Model Training
+
+Learning AI Concepts
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -127,41 +188,41 @@ Open To:
 * Backend Architecture
 * System Design
 * Docker
+* Cloud Deployment
 * Machine Learning
 * API Security
 * Scalable Web Applications
-* Cloud Deployment
 
 ---
 
 # Goals For 2026
 
 * Build production-grade backend systems
-* Contribute to open source projects
-* Learn advanced system design
-* Deploy scalable full stack applications
-* Improve DSA and problem solving
-* Build impactful ML projects
+* Master System Design fundamentals
+* Contribute regularly to Open Source
+* Deploy scalable Full Stack applications
+* Improve DSA and problem-solving skills
+* Build impactful Machine Learning projects
 
 ---
 
 # Featured Projects
 
-### Full Stack Project
+## Full Stack Project
 
-Modern full stack web application with authentication and database integration.
+Modern full stack application with authentication, database integration and deployment.
 
-### Backend API Project
+## Backend API Project
 
-Scalable REST API with authorization, validation and production deployment.
+Scalable REST API featuring authentication, authorization, validation and monitoring.
 
-### Machine Learning Project
+## Machine Learning Project
 
-Machine learning solution for solving practical real-world problems.
+Machine learning project solving practical real-world problems using Python.
 
-### Open Source Project
+## Open Source Project
 
-Community-driven project contributions and collaboration.
+Community-driven contribution focused on learning and collaboration.
 
 ---
 
@@ -172,6 +233,18 @@ Community-driven project contributions and collaboration.
 ![Snake animation](https://raw.githubusercontent.com/Rajk76/Rajk76/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+---
+
+# Quote
+
+```bash
+while(alive){
+    learn();
+    build();
+    improve();
+}
+```
 
 ---
 
