@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&height=100&lines=rajk76%40github%3A~%24+whoami;Raj+Kumar" /> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&height=100&lines=WHO+AM+I;Rajkr76;Raj+kumar" /> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" />
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/raj-kumar-79a099333">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -11,40 +11,17 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:Rajkr76986@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Rajk76&label=Profile%20Views&color=00ff7f&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Rajkr76&label=Profile%20Views&color=00ff7f&style=flat" />
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&height=80&lines=Raj+Kumar;Backend+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" />
-
-### Building Scalable Systems • Learning Continuously • Shipping Projects
-
-<img src="https://komarev.com/ghpvc/?username=Rajk76&label=Profile+Views&color=00ff7f&style=flat-square" />
-
-<br>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -145,9 +122,9 @@ Learning AI Concepts
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajk76&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajkr76&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajk76&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkr76&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -157,7 +134,7 @@ Learning AI Concepts
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajk76&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkr76&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -167,7 +144,7 @@ Learning AI Concepts
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajk76&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkr76&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -177,7 +154,7 @@ Learning AI Concepts
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rajk76&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rajkr76&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -230,7 +207,7 @@ Community-driven contribution focused on learning and collaboration.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Rajk76/Rajk76/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Rajkr76/Rajkr76/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
