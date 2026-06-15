@@ -1,19 +1,15 @@
 <div align="center">
 
-```bash
-┌──(rajk76㉿github)-[~/profile]
-└─$ whoami
+```console
+rajk76@github:~$ whoami
 
 Raj Kumar
 
-Backend Engineer
-Full Stack Developer
+Backend Engineer • Full Stack Developer
 Machine Learning Enthusiast
+
+rajk76@github:~$ _
 ```
-
-# Hi, I'm Raj Kumar
-
-### Backend Engineer • Full Stack Developer • Machine Learning Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Backend+Engineering;Full+Stack+Development;Machine+Learning;System+Design;Building+Scalable+Applications" />
 
