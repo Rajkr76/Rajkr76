@@ -1,10 +1,165 @@
-# <div align="center">Raj Kumar</div>
+<div align="center">
+
+# Hi, I'm Raj 👋
+
+### Backend-Focused Full Stack Developer | ML Enthusiast | B.Tech Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Building+real-world+applications;Learning+Backend+Architecture+%26+System+Design;Exploring+Machine+Learning;Open+to+collaboration+on+meaningful+projects" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rajk76&color=00FF41&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Rajk76?style=flat-square&color=00FF41&labelColor=000000)
+
+</div>
+
+---
+
+## 🚀 About Me
 
 <div align="center">
 
-### Backend Engineer • Full Stack Developer • Machine Learning Enthusiast
+\`\`\`
+const profile = {
+  role: "B.Tech Engineering Student",
+  focus: ["Backend Engineering", "Full Stack Development", "Machine Learning"],
+  currentlyLearning: ["Full Stack Web Development", "Machine Learning"],
+  interestedIn: ["Backend Engineering", "System Design"],
+  status: "Open to collaboration on meaningful projects 🌱"
+};
+\`\`\`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Full+Stack+Web+Developer;Exploring+Machine+Learning;Passionate+About+System+Design;Always+Learning+and+Building" alt="Typing SVG" />
+</div>
+
+- 🎓 B.Tech Engineering Student
+- 🌐 Learning Full Stack Web Development
+- 🤖 Learning Machine Learning
+- ⚙️ Interested in Backend Engineering & System Design
+- 🛠️ Building real-world, production-style applications
+- 🤝 Open to collaborating on meaningful projects
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark)
+
+**Backend**
+
+![Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
+<br/>
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+
+**Databases**
+
+![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark)
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=java,js,python&theme=dark)
+
+**Tools**
+
+![Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajk76&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajk76&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajk76&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Rajk76/Rajk76/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+
+</div>
+
+> Generate via the [github-contribution-grid-snake](https://github.com/Platane/snk) GitHub Action and update the path above.
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🌐 Full Stack Project
+**[Project Name](#)** — *Brief description of the full stack application, key features, and tech used (React, Node.js, MongoDB, etc.)*
+
+![Status](https://img.shields.io/badge/Status-In_Progress-00FF41?style=flat-square&labelColor=000000)
+
+---
+
+### ⚙️ Backend API Project
+**[Project Name](#)** — *Brief description of the backend/API project, architecture decisions, and tech used (Express, PostgreSQL, REST/JWT, etc.)*
+
+![Status](https://img.shields.io/badge/Status-In_Progress-00FF41?style=flat-square&labelColor=000000)
+
+---
+
+### 🤖 Machine Learning Project
+**[Project Name](#)** — *Brief description of the ML project, problem statement, models/libraries used, and outcomes*
+
+![Status](https://img.shields.io/badge/Status-In_Progress-00FF41?style=flat-square&labelColor=000000)
+
+---
+
+### 🔓 Open Source Project
+**[Project Name](#)** — *Brief description of your contribution to an open-source project or your own open-source tool*
+
+![Status](https://img.shields.io/badge/Status-In_Progress-00FF41?style=flat-square&labelColor=000000)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=structurizr&logoColor=00FF41)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
+
+</div>
+
+---
+
+## 🎯 Goals for 2026
+
+<div align="center">
+
+- 🏗️ Build production-grade backend systems  
+- 🔓 Contribute to open source  
+- 🧩 Learn advanced system design  
+- ☁️ Deploy scalable applications  
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:your-email@example.com)
 
 </div>
 
@@ -12,199 +167,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rajk76\&label=Profile%20Views\&color=00ff7f\&style=for-the-badge)
-
-</div>
-
-## About Me
-
-```bash
-> whoami
-
-Name: Raj Kumar
-Role: B.Tech Engineering Student
-Focus: Backend Engineering & Full Stack Development
-Interest: Machine Learning & System Design
-Status: Building real-world applications
-Open To: Collaboration and Open Source Contributions
-```
-
-* Building practical software projects
-* Learning scalable backend architecture
-* Exploring machine learning and AI
-* Interested in distributed systems and system design
-* Continuously improving problem-solving skills
-* Open to collaborating on meaningful projects
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,javascript,python" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-
-### Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajk76&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajk76&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rajk76&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## Currently Learning
-
-```yaml
-Backend Architecture:
-  - Scalable APIs
-  - Authentication & Authorization
-  - Microservice Concepts
-
-System Design:
-  - Load Balancing
-  - Caching
-  - Database Design
-
-Machine Learning:
-  - Supervised Learning
-  - Model Evaluation
-  - Data Processing
-
-DevOps:
-  - Docker
-  - Deployment Pipelines
-```
-
----
-
-## Featured Projects
-
-### Full Stack Project
-
-```txt
-A production-ready full stack application
-using React, Next.js, Node.js and MongoDB.
-```
-
-### Backend API Project
-
-```txt
-RESTful API with authentication,
-authorization and database integration.
-```
-
-### Machine Learning Project
-
-```txt
-Data-driven machine learning application
-with model training and evaluation.
-```
-
-### Open Source Project
-
-```txt
-Contributions and community-driven
-software development initiatives.
-```
-
----
-
-## Goals for 2026
-
-* Build production-grade backend systems
-* Contribute consistently to open source
-* Master advanced system design concepts
-* Deploy scalable full stack applications
-* Strengthen DSA and problem-solving skills
-* Build impactful machine learning projects
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajk76&theme=github_dark" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Rajk76/Rajk76/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> Configure the GitHub Action after creating the profile repository to generate the snake animation automatically.
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building. Learning. Improving.
-
-```terminal
-raj@github:~$ sudo build_the_future
-[success] system online
-```
+![Visitor Badge](https://img.shields.io/badge/Thanks_for_visiting-00FF41?style=flat-square&labelColor=000000)
 
 </div>
