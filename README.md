@@ -1,29 +1,22 @@
 <div align="center">
 
+# RAJK76
+
 ```bash
 ┌──(rajk76㉿github)-[~/profile]
 └─$ whoami
-
-██████╗  █████╗      ██╗██╗  ██╗███████╗ ██████╗
-██╔══██╗██╔══██╗     ██║██║ ██╔╝╚════██║██╔════╝
-██████╔╝███████║     ██║█████╔╝    ██╔╝ ███████╗
-██╔══██╗██╔══██║██   ██║██╔═██╗   ██╔╝  ╚════██║
-██║  ██║██║  ██║╚█████╔╝██║  ██╗  ██║   ███████║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝  ╚═╝   ╚══════╝
 
 Backend Engineer
 Full Stack Developer
 Machine Learning Enthusiast
 ```
-# Hi 👋, I'm Raj Kumar
 
-### Backend Engineer • Full Stack Developer • Machine Learning Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Developing+Full+Stack+Applications;Learning+System+Design;Exploring+Machine+Learning;Open+Source+Contributor" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Backend+Engineering;Full+Stack+Development;Machine+Learning;System+Design;Building+Scalable+Applications" />
+<br>
 
-<p>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://YOUR_PORTFOLIO">
@@ -31,63 +24,96 @@ Machine Learning Enthusiast
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=Rajk76&label=Profile%20Views&color=00ff7f&style=flat" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Rajk76&label=Profile+Views&color=00ff7f&style=flat"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+## About Me
 
 ```yaml
-Name: Raj Kumar
-Role: B.Tech Engineering Student
+name: Raj Kumar
 
-Current Focus:
+education:
+  - B.Tech Engineering Student
+
+focus:
   - Backend Engineering
   - Full Stack Development
   - Machine Learning
 
-Learning:
+currently_learning:
   - System Design
   - Docker
   - Scalable Architectures
 
-Open To:
+open_to:
   - Collaboration
   - Open Source
-  - Real-world Projects
+  - Real World Projects
 ```
 
 ---
 
-# 🚀 Tech Stack
+## Current Focus
+
+| Area             | Working On                              |
+| ---------------- | --------------------------------------- |
+| Backend          | REST APIs, Authentication, Architecture |
+| Full Stack       | React, Next.js, Node.js                 |
+| Databases        | MongoDB, PostgreSQL, MySQL              |
+| Machine Learning | Model Building & Data Processing        |
+| DevOps           | Docker & Deployment                     |
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,linux,git,github,postman,vscode&perline=9" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode" />
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajk76&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajk76&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajk76&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajk76&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
 
@@ -97,7 +123,7 @@ Open To:
 
 ---
 
-# 📈 Contribution Graph
+## Contribution Activity
 
 <div align="center">
 
@@ -107,59 +133,48 @@ Open To:
 
 ---
 
-# 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rajk76&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rajk76&theme=tokyonight&no-frame=true&column=6"/>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
+## Featured Projects
 
-* Backend Architecture
-* System Design
-* Docker
-* Machine Learning
-* API Security
-* Scalable Web Applications
+### Full Stack Application
+
+Production-ready web application using React, Next.js, Node.js and MongoDB.
+
+### Backend API
+
+Scalable REST API with authentication, authorization and validation.
+
+### Machine Learning Project
+
+Data-driven ML project with training and evaluation pipeline.
+
+### Open Source
+
+Community contributions and collaborative development.
 
 ---
 
-# 🎯 Goals For 2026
+## Goals For 2026
 
 * Build production-grade backend systems
-* Contribute to open source projects
+* Contribute to open source regularly
 * Learn advanced system design
-* Deploy scalable full stack applications
-* Improve DSA and problem solving
+* Deploy scalable applications
+* Strengthen DSA skills
 * Build impactful ML projects
 
 ---
 
-# 📌 Featured Projects
-
-### 🚀 Full Stack Project
-
-Modern full stack web application with authentication and database integration.
-
-### ⚡ Backend API Project
-
-Scalable REST API with authorization, validation and production deployment.
-
-### 🤖 Machine Learning Project
-
-Machine learning solution for solving practical real-world problems.
-
-### 🌍 Open Source Project
-
-Community-driven project contributions and collaboration.
-
----
-
-# 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -171,8 +186,6 @@ Community-driven project contributions and collaboration.
 
 <div align="center">
 
-### ⚡ Building scalable systems one commit at a time
+### Building scalable systems one commit at a time.
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:00ff7f"/>
