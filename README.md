@@ -195,7 +195,10 @@ Machine learning project solving practical real-world problems using Python.
 Community-driven contribution focused on learning and collaboration.
 
 ---
-
+# Snake Contribution Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rajkr76/Rajkr76/output/github-snake-dark.svg" />
+</p>
 ---
 
 # Quote
