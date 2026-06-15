@@ -150,13 +150,6 @@ Learning AI Concepts
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rajkr76&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
 
 ---
 
@@ -203,14 +196,6 @@ Community-driven contribution focused on learning and collaboration.
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Rajkr76/Rajkr76/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 # Quote
@@ -231,4 +216,3 @@ while(alive){
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:00ff7f"/>
