@@ -1,22 +1,25 @@
 <div align="center">
 
-# RAJK76
-
 ```bash
 ┌──(rajk76㉿github)-[~/profile]
 └─$ whoami
+
+Raj Kumar
 
 Backend Engineer
 Full Stack Developer
 Machine Learning Enthusiast
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Developing+Full+Stack+Applications;Learning+System+Design;Exploring+Machine+Learning;Open+Source+Contributor" />
+# Hi, I'm Raj Kumar
 
-<br>
+### Backend Engineer • Full Stack Developer • Machine Learning Enthusiast
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Backend+Engineering;Full+Stack+Development;Machine+Learning;System+Design;Building+Scalable+Applications" />
+
+<p>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://YOUR_PORTFOLIO">
@@ -24,56 +27,41 @@ Machine Learning Enthusiast
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Rajk76&label=Profile+Views&color=00ff7f&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Rajk76&label=Profile%20Views&color=00ff7f&style=flat" />
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
 ```yaml
-name: Raj Kumar
+Name: Raj Kumar
+Role: B.Tech Engineering Student
 
-education:
-  - B.Tech Engineering Student
-
-focus:
+Current Focus:
   - Backend Engineering
   - Full Stack Development
   - Machine Learning
 
-currently_learning:
+Learning:
   - System Design
   - Docker
-  - Scalable Architectures
+  - Cloud & Deployment
 
-open_to:
+Open To:
   - Collaboration
   - Open Source
-  - Real World Projects
+  - Real-world Projects
 ```
 
 ---
 
-## Current Focus
-
-| Area             | Working On                              |
-| ---------------- | --------------------------------------- |
-| Backend          | REST APIs, Authentication, Architecture |
-| Full Stack       | React, Next.js, Node.js                 |
-| Databases        | MongoDB, PostgreSQL, MySQL              |
-| Machine Learning | Model Building & Data Processing        |
-| DevOps           | Docker & Deployment                     |
-
----
-
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -89,31 +77,35 @@ open_to:
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### Database
+### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,linux" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 </div>
 
 ---
 
-## GitHub Statistics
+# GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajk76&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajk76&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajk76&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajk76&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## GitHub Streak
+# GitHub Streak
 
 <div align="center">
 
@@ -123,7 +115,7 @@ open_to:
 
 ---
 
-## Contribution Activity
+# Contribution Graph
 
 <div align="center">
 
@@ -133,48 +125,60 @@ open_to:
 
 ---
 
-## GitHub Trophies
+# GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rajk76&theme=tokyonight&no-frame=true&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rajk76&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
 ---
 
-## Featured Projects
+# Currently Learning
 
-### Full Stack Application
-
-Production-ready web application using React, Next.js, Node.js and MongoDB.
-
-### Backend API
-
-Scalable REST API with authentication, authorization and validation.
-
-### Machine Learning Project
-
-Data-driven ML project with training and evaluation pipeline.
-
-### Open Source
-
-Community contributions and collaborative development.
+* Backend Architecture
+* System Design
+* Docker
+* Machine Learning
+* API Security
+* Scalable Web Applications
+* Cloud Deployment
 
 ---
 
-## Goals For 2026
+# Goals For 2026
 
 * Build production-grade backend systems
-* Contribute to open source regularly
+* Contribute to open source projects
 * Learn advanced system design
-* Deploy scalable applications
-* Strengthen DSA skills
+* Deploy scalable full stack applications
+* Improve DSA and problem solving
 * Build impactful ML projects
 
 ---
 
-## Contribution Snake
+# Featured Projects
+
+### Full Stack Project
+
+Modern full stack web application with authentication and database integration.
+
+### Backend API Project
+
+Scalable REST API with authorization, validation and production deployment.
+
+### Machine Learning Project
+
+Machine learning solution for solving practical real-world problems.
+
+### Open Source Project
+
+Community-driven project contributions and collaboration.
+
+---
+
+# Contribution Snake
 
 <div align="center">
 
@@ -186,6 +190,8 @@ Community contributions and collaborative development.
 
 <div align="center">
 
-### Building scalable systems one commit at a time.
+### ⚡ Building scalable systems one commit at a time
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:00ff7f"/>
