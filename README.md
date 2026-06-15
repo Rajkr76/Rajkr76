@@ -70,26 +70,41 @@ const profile = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajk76&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajk76&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajk76&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
-</div>
+<br/><br/>
 
-<div align="center">
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajk76&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41" width="100%" />
+
+<br/>
+
+### 🗓️ 3D Contribution Calendar
+
+<img src="https://raw.githubusercontent.com/Rajk76/Rajk76/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+<br/><br/>
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Rajk76/Rajk76/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+<img src="https://raw.githubusercontent.com/Rajk76/Rajk76/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%" />
 
 </div>
 
-> Generate via the [github-contribution-grid-snake](https://github.com/Platane/snk) GitHub Action and update the path above.
+> **Setup notes:**
+> - Activity graph updates automatically — no setup needed (just replace `Rajk76`).
+> - For the 3D calendar, add the [`profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action to your `Rajk76/Rajk76` repo.
+> - For the snake animation, add the [`github-contribution-grid-snake`](https://github.com/Platane/snk) GitHub Action.
 
 ---
 
