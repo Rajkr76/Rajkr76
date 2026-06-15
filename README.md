@@ -1,15 +1,6 @@
 <div align="center">
 
-```console
-rajk76@github:~$ whoami
-
-Raj Kumar
-
-Backend Engineer • Full Stack Developer
-Machine Learning Enthusiast
-
-rajk76@github:~$ _
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&height=100&lines=rajk76%40github%3A~%24+whoami;Raj+Kumar" /> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Backend+Engineering;Full+Stack+Development;Machine+Learning;System+Design;Building+Scalable+Applications" />
 
