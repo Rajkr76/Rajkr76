@@ -32,6 +32,7 @@ name: Raj Kumar
 
 role:
   - B.Tech Engineering Student
+  - college - VIT BHOPAL UNIVERSITY
 
 focus:
   - Backend Engineering
